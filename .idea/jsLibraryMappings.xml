@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="angular/cmp-databinding-start/node_modules" />
+    <excludedPredefinedLibrary name="angular/udemy-app/node_modules" />
+  </component>
+</project>
