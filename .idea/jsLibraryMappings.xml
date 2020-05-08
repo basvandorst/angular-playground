@@ -2,6 +2,15 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <excludedPredefinedLibrary name="angular/cmp-databinding-start/node_modules" />
+    <excludedPredefinedLibrary name="angular/directives-start/node_modules" />
+    <excludedPredefinedLibrary name="angular/observables-start/obs-01-start/node_modules" />
+    <excludedPredefinedLibrary name="angular/observables-start/obs-02-first-custom-observable/node_modules" />
+    <excludedPredefinedLibrary name="angular/observables-start/obs-03-complete-custom-observable/node_modules" />
+    <excludedPredefinedLibrary name="angular/observables-start/obs-04-operators/node_modules" />
+    <excludedPredefinedLibrary name="angular/observables-start/obs-05-finished/node_modules" />
+    <excludedPredefinedLibrary name="angular/routing-start/node_modules" />
+    <excludedPredefinedLibrary name="angular/services-start/node_modules" />
+    <excludedPredefinedLibrary name="angular/shopping/node_modules" />
     <excludedPredefinedLibrary name="angular/udemy-app/node_modules" />
   </component>
 </project>
